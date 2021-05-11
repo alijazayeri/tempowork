@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+setup.py
+src/tempowork.py
+src/tempowork.egg-info/PKG-INFO
+src/tempowork.egg-info/SOURCES.txt
+src/tempowork.egg-info/dependency_links.txt
+src/tempowork.egg-info/top_level.txt
