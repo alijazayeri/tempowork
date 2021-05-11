@@ -115,7 +115,7 @@ Related work
 *************
 Some of the other algorithms in the literature are surveyed in the following two papers:
 
-If the data set composed of a set or sequence of static or temporal networks (**Note:** this paper comes with supplementary materials):
+If the data set composed of a set or sequence of static or temporal networks (**Note:** this paper comes with supplementary materials in a separate file from the main paper):
 
 	Jazayeri A. and Yang C. C., *Frequent Subgraph Mining Algorithms in Static and Temporal Graph-Transaction Settings: A Survey*, in IEEE Transactions on Big Data, 2021
 	https://doi.org/10.1109/TBDATA.2021.3072001
