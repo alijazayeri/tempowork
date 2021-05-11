@@ -16,7 +16,7 @@ The *tempowork* Python library comprises a series of algorithms for mining tempo
 --------------------------------------------------
  Mining evolving patterns in temporal networks
 --------------------------------------------------
-Coming soon! 
+Coming soon! `:slightly_smiling_face:`
 
 *************
 Install
