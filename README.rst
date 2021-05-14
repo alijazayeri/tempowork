@@ -115,7 +115,7 @@ Related work
 *************
 Some of the other algorithms in the literature are surveyed in the following two papers:
 
-If the data set composed of a set or sequence of static or temporal networks (**Note:** this paper comes with supplementary materials in a separate file from the main paper):
+If the data set composed of a set or sequence of static or temporal networks (**Note:** this paper comes with supplementary materials):
 
 	Jazayeri A. and Yang C. C., *Frequent Subgraph Mining Algorithms in Static and Temporal Graph-Transaction Settings: A Survey*, in IEEE Transactions on Big Data, 2021
 	https://doi.org/10.1109/TBDATA.2021.3072001
@@ -131,4 +131,24 @@ If you could not access these papers, please contact me.
 Citation
 *************
 
-**Paper:** To Be Provided!
+**Paper:** https://arxiv.org/pdf/2105.06399.pdf
+
+If you use *tempowork* in your research, please cite the associated paper. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible. However, the citation to the IEEE version will be provided.
+
+**BibTex entry:**
+
+	@misc{tempowork2021,
+
+	title={Frequent Pattern Mining in Continuous-time Temporal Networks},  
+	
+	author={Ali Jazayeri and Christopher C. Yang},
+	
+	year={2021},
+	
+	eprint={2105.06399},
+	
+	archivePrefix={arXiv},
+	
+	primaryClass={cs.SI}
+	
+	}
