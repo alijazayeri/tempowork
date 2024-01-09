@@ -5,7 +5,7 @@ Created on Sun Jan 17 14:02:49 2021
 @author: Ali Jazayeri
 """
 
-import src.CIG_edge as cig_edge
+import tempowork.CIG_edge as cig_edge
 
 class Node():
     def __init__(self, node, lbl):

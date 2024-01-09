@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tempowork"
-version = "0.1.2"
+version = "0.1.4"
 description = "A library for mining temporal networks where time is represented as a continuous dimension!"
 authors = ["alijazayeri <jazayeri.ali@gmail.com>"]
 license = "MIT"
@@ -9,6 +9,12 @@ license = "MIT"
 python = "^3.10"
 
 [tool.poetry.dev-dependencies]
+
+[sdist]
+dist-dir = "dist/src"
+
+[bdist_wheel]
+dist-dir = "dist/wheel"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

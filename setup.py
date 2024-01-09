@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "tempowork",
-    version = "0.1.2",
+    version = "0.1.4",
     author = "Ali Jazayeri",
     author_email = "ali.jazayeri@drexel.edu",
     description = ("A library for mining temporal networks where time is represented as a continuous dimension!"),
@@ -16,5 +16,5 @@ setup(
     py_modules=['tempowork'],
     packages=find_packages(),
     long_description=read('README.rst'),
-long_description_content_type='text/x-rst'
+    long_description_content_type='text/markdown',
 )
