@@ -14,10 +14,10 @@ import pandas as pd
 
 
 
-from tempowork.CIG import cig_network as cig
-from tempowork.IT_nil import nil
-from tempowork.IT_node import IT_node
-from tempowork.IT import Interval_Tree
+from CIG import cig_network as cig
+from IT_nil import nil
+from IT_node import IT_node
+from IT import Interval_Tree
 
 
 

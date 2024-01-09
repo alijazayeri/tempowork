@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "tempowork",
-    version = "0.0.23",
+    version = "0.1.2",
     author = "Ali Jazayeri",
     author_email = "ali.jazayeri@drexel.edu",
     description = ("A library for mining temporal networks where time is represented as a continuous dimension!"),
