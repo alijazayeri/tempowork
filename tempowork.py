@@ -14,10 +14,10 @@ import pandas as pd
 
 
 
-from src.CIG import cig_network as cig
-from src.IT_nil import nil
-from src.IT_node import IT_node
-from src.IT import Interval_Tree
+from CIG import cig_network as cig
+from IT_nil import nil
+from IT_node import IT_node
+from IT import Interval_Tree
 
 
 

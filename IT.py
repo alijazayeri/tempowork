@@ -6,8 +6,8 @@ Created on Sun Jan 17 13:56:00 2021
 """
 
 
-from src.IT_nil import nil
-from src.IT_node import IT_node
+from IT_nil import nil
+from IT_node import IT_node
 
 class Interval_Tree(object):
     def __init__(self,root):
