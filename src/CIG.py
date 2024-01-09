@@ -8,8 +8,8 @@ Created on Sun Jan 17 14:03:54 2021
 
 from collections import defaultdict
 
-import tempowork.CIG_edge as cig_edge
-import tempowork.CIG_node as cig_node
+import src.CIG_edge as cig_edge
+import src.CIG_node as cig_node
 
 class cig_network():
     def __init__(self, net_id, directed = False):

@@ -6,7 +6,7 @@ Created on Sun Jan 17 13:54:56 2021
 """
 
 
-from tempowork.IT_nil import nil
+from src.IT_nil import nil
 
 class IT_node(nil):
     def __init__(self, interval,node_id):
